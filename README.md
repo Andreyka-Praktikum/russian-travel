@@ -5,12 +5,12 @@ ____
 ### Интро
 
 Больше путешествий по большой стране. Ищи свой любимый маршрут!
-Начинай с нашего [сайта](https://andreyka-praktikum.github.io/russian-travel/index_en.html).
+Начинай с нашего [сайта](https://andreyka-praktikum.github.io/russian-travel/index.html).
 
 ____
 
 ### Компоненты
 
 Хоть проект и __не будет работать__ в IE и других, столь же почтенных Интернет-исследователях, но в современном браузере
-наш [сайт](https://andreyka-praktikum.github.io/russian-travel/index_en.html)
+наш [сайт](https://andreyka-praktikum.github.io/russian-travel/index.html)
 на любом устройстве порадует ваш взор адаптивной вёрсткой на «флексах» и «гридах». И никаких скриптов. Только HTML и CSS.
