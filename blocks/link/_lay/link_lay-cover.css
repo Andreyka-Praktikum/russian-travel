@@ -1,4 +1,4 @@
-.cover__background {
+.link_lay-cover {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -9,4 +9,14 @@
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+.link_lay-cover:before {
+  content: ' ';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(42, 44, 47, .3);
 }

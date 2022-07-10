@@ -1,5 +1,6 @@
 .langs__item {
   margin-left: 18px;
+  padding-bottom: 5px;
   line-height: 28px;
   font-size: 24px;
   font-weight: 400;
@@ -10,7 +11,7 @@
   margin-left: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .langs__item {
     line-height: 20px;
     font-size: 18px;

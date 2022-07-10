@@ -1,18 +1,13 @@
 .navs__item {
   margin: 0 0 0 18px;
-  line-height: 18px;
-  font-size: 16px;
-  font-weight: 400;
 }
 
 .navs__item:first-child {
   margin: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .navs__item {
     margin: 32px 0 0;
-    line-height: 24px;
-    font-size: 24px;
   }
 }

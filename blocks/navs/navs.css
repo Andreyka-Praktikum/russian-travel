@@ -1,9 +1,11 @@
 .navs {
   display: flex;
+  align-items: flex-end;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .navs {
     flex-direction: column;
+    align-items: flex-start;
   }
 }
