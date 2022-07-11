@@ -1,4 +1,4 @@
-.link_lay-cover {
+.link_lay_cover {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,7 +11,7 @@
   background-repeat: no-repeat;
 }
 
-.link_lay-cover:before {
+.link_lay_cover:before {
   content: ' ';
   position: absolute;
   left: 0;
@@ -20,3 +20,8 @@
   height: 100%;
   background-color: rgba(42, 44, 47, .3);
 }
+
+.link_lay_cover:hover:before {
+  background-color: rgba(42, 44, 47, .8);
+}
+

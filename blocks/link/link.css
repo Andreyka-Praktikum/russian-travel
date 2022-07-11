@@ -4,7 +4,7 @@
   transition: opacity .1s linear;
 }
 
-.link:hover {
+.link:hover:not(.link_lay_cover) {
   opacity: .8;
   cursor: pointer;
 }
